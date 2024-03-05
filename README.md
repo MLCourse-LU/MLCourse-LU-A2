@@ -8,7 +8,7 @@ This repository contains the exercises and questions for assignment 2.
 
     1. `conda create -n MyEnvName`
     2. `conda activate MyEnvName`
-    3. `conda env create -f environment.yml`
+    3. `conda env create -f requirements.yml`
     if this does not work, you can also try using the following command:
     `conda install numpy pandas scikit-learn jupyter pygraphviz`
 
